@@ -1,3 +1,5 @@
-# repo_remoto
-# repo_remoto
-Proyecto recuperado 
+#Clase Estadística
+
+Este repositorio contiene los programas de R usados durante el curso.
+
+
